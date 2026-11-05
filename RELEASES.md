@@ -6,23 +6,16 @@ issue tracker entries that shipped with it.
 
 ## Unreleased
 
-- Restore workspace tab pinning (#101)
-- Search field crashes on empty query (#102)
-- Rewrite onboarding checklist copy (#103)
-- Realtime collaboration cursors (#104)
-- Deduplicate sync jobs after reconnect (#105)
-- Offline merge overwrites local edits (#106)
-- CSV export for activity log (#107)
-- Telemetry collector v2 migration (#108)
-- Dark mode flicker on startup (#109)
-- Update export dialog tooltips (#110)
-- Custom keyboard shortcut editor (#111)
-- Harden archive import path checks (#112)
-- Stable/beta update channel toggle (#113)
-- Diagnostics bundle should include sync logs (#114)
-- License banner uses old brand colors (#115)
-- Settings v3 migration guide (#116)
-- Flaky Windows CI packaging step (#117)
+- Add workspace tab pinning (#1)
+- Fix crash when searching with an empty query (#2)
+- Improve onboarding checklist wording (#3)
+- Prevent duplicate sync jobs after reconnect (#5)
+- Support custom keybindings (#11)
+- Tighten file permission checks on import (#12)
+- Add release channel switch (#13)
+- Improve diagnostics bundle (#14)
+- Refresh license banner styling (#15)
+- Write migration guide for settings v3 (#16)
 
 ## v4.2.0 — 2026-09-18
 
